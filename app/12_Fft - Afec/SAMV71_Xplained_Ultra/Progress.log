@@ -1,0 +1,12 @@
+INITIALIZING	Emulator: EDBG CMSIS-DAP   Debugger: On-chip
+CONVERTING	C:\SAMV71x\app\12_Fft - Afec\SAMV71_Xplained_Ultra\Debug\Fft.elf
+LOADING	C:\SAMV71x\app\12_Fft - Afec\SAMV71_Xplained_Ultra\Debug\Fft.elf
+ANALYZING
+ANALYZING
+EMULATION	POD: Cortex (JTAG,SWD)   CPU: Cortex-M7
+DEBUG	PROTOCOL: SWD; RESET: SoC
+CPU	CPUID=0x410FC271 (M7 variant 0, revision 1)
+LOADING 	285680 bytes
+UMI INFO	Loading UMI monitor...
+PROGRAMMING	Atmel ATSAMV7 (2048 kB) (5 sectors)
+UMI INFO	Unloading UMI monitor...

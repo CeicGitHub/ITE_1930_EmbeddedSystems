@@ -1,0 +1,12 @@
+{
+      "files.associations": {
+            "stdbool.h": "c",
+            "pio_it.h": "c",
+            "board.h": "c",
+            "assert.h": "c",
+            "chip.h": "c",
+            "pushbutton_ctrl.h": "c",
+            "led_ctrl.h": "c",
+            "tc.h": "c"
+      }
+}
